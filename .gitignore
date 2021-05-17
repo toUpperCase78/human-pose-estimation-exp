@@ -1,0 +1,7 @@
+/OpenCV/pose/coco/pose_iter_440000.caffemodel
+/OpenCV/pose/mpi/pose_iter_160000.caffemodel
+/OpenCV/Input/*
+/OpenCV/OutputImageCOCO/*
+/OpenCV/OutputImageMPI/*
+/OpenCV/OutputVideoCOCO/*
+/OpenCV/OutputVideoMPI/*
